@@ -102,4 +102,4 @@
 ## 📫 Contact Me
 
 * GitHub: https://github.com/linlangkang
-* Email: [3507856871@qq.com](mailto:3507856871@qq.com)
+* Email: [3507856871@qq.com](mailto:3507856871@qq.com)   [linlangkang@gmail.com](linlangkang@gmail.com)
